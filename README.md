@@ -9,4 +9,5 @@ i would like to know how git is going to work
     <p>we can also write html in this git</p>
   </body>
 </html>
-author is saketh muthyapuwar
+hello how are you 
+iam unable  to understand how to use git
